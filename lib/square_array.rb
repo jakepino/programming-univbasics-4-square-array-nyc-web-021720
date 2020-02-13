@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array(number)
  counter = 0
   while array(counter) do
     array(counter) * array(counter)
